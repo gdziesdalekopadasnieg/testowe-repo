@@ -1,0 +1,2 @@
+# testowe repo
+ Nauka git
